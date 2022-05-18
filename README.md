@@ -1,1 +1,1 @@
-# Excercise for the course Object oriented programming
+# Exercise for the course Object oriented programming (FER Zagreb)
